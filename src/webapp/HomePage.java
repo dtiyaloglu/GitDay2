@@ -2,11 +2,13 @@ package webapp;
 
 public class HomePage {
 
-    //Setting up homepage
+    // Setting up homepage
 
-    // nav menu
+    //nav menu
 
-    //more things for the homepage
+    // more things for the homepage
 
     // logo
+
+
 }
